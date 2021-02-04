@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'UISwitchy_Example' do
+  pod 'UISwitchy', :path => '../'
+
+  target 'UISwitchy_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

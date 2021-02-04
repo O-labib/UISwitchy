@@ -1,0 +1,16 @@
+PODS:
+  - UISwitchy (0.1.0)
+
+DEPENDENCIES:
+  - UISwitchy (from `../`)
+
+EXTERNAL SOURCES:
+  UISwitchy:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UISwitchy: 018c6e75d01ca417c29f94c18c65ea0197c71cce
+
+PODFILE CHECKSUM: 6436902095868914f58d4cde298e4f9b2fcd9877
+
+COCOAPODS: 1.10.0
