@@ -9,7 +9,7 @@ A more customizable, powerful replica for Apple standard UISwtich.
 
 [Customization](#customization)
 
-[Delegate (Callback)](#delegate-(callback))
+[Callback](#callback)
 
 [Installation](#installation)
 
@@ -50,7 +50,7 @@ You can customize `UISwitchy` for these attributes:
 | borderWidth | border width of the switch |
 
 
-### Delegate (Callback):
+### Callback:
 Just as the normal ios, you can listen for the state change of the switch via an `IBAction`
 <p align="center">
 <img src="https://github.com/baianat/UISwitchy/blob/main/readmeAssets/instruction1.png">
