@@ -28,6 +28,7 @@
                                     <constraint firstAttribute="width" constant="80" placeholder="YES" id="rFr-ZF-77e"/>
                                 </constraints>
                                 <connections>
+                                    <action selector="switchAction:" destination="vXZ-lx-hvc" eventType="valueChanged" id="ud7-3v-dVu"/>
                                     <action selector="switchyAction:" destination="vXZ-lx-hvc" eventType="valueChanged" id="ojg-5Q-876"/>
                                 </connections>
                             </view>

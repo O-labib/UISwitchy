@@ -47,5 +47,21 @@ class ViewController: UIViewController {
         animating.toggle()
     }
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    @IBAction func switchAction(_ sender: Any) {
+        
+    }
+    
+    
+    
+    
 }
 
